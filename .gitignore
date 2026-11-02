@@ -1,0 +1,13 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary and Session Files
+*.log
+cookies_*.txt
+
+# Editor / IDE configurations
+.idea/
+*.sublime-workspace
+*.sublime-project

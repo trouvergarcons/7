@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch in Microsoft Edge (F5)",
+            "type": "msedge",
+            "request": "launch",
+            "url": "http://localhost/company/index.php",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "name": "Launch in Google Chrome",
+            "type": "chrome",
+            "request": "launch",
+            "url": "http://localhost/company/index.php",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
